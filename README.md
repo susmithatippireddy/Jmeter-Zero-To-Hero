@@ -1,13 +1,13 @@
 # Jmeter-Zero-To-Hero
- fully updated in January with latest Jmeter version 5.0 revised lectures Performance Tester is in high Demand! Get Real Time exposure on Load Testing with the most popular open source Performance Testing tool – Jmeter
+ fully updated in January with latest Jmeter version 5.0 revised Performance Tester is in high Demand! Get Real Time exposure on Load Testing with the most popular open source Performance Testing tool – Jmeter
 
  Are you looking forward to learn Jmeter right from Zero(installation) to Hero(Reports)? then you are at the right place.
-Requirements
+**Requirements**
 •	You need NOT have any prior load testing experience to start this Everything from scratch is taken care
 •	All Installation setup including performance testing is taken care as part of 
 •	Theoretical Material,Code dump and Interview Guide are available for download.
 
-Apache JMeter Tutorial
+**Apache JMeter Tutorial**
 
 **DAY-0** why Performance why need to see these videos
 
