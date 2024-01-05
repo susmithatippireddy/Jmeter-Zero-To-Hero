@@ -102,7 +102,7 @@ Post-Processors:
     - Connection Refused to Host
     - Unsupported major.minor Version
 
-**DAY-11: **JMeter in Docker Execution
+**DAY-11:** JMeter in Docker Execution
 **DAY-12:** Creating JMeter Docker Files
 
 **DAY-13:** JMeter with Docker and Grafana Integration
