@@ -149,12 +149,13 @@ Post-Processors:
     - Advantages of User Defined Variables
 
 **DAY-18: HTML Dashboard Report**
-Generating Simple HTML Dashboard Report
-Advanced Dashboard Report Generation
-Common Settings for Dashboard Report
-Generating HTML Report in GUI Mode
-Customizing Request Summary on Dashboard (Change OK/KO to Pass/Fail)
-Changing Response Time Value in Seconds in HTML Report
+
+-Generating Simple HTML Dashboard Report
+-Advanced Dashboard Report Generation
+-Common Settings for Dashboard Report
+-Generating HTML Report in GUI Mode
+-Customizing Request Summary on Dashboard (Change OK/KO to Pass/Fail)
+-Changing Response Time Value in Seconds in HTML Report
 
 
 **DAY-19: Advanced Reporting and Monitoring**
