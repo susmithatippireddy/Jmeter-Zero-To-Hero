@@ -113,7 +113,8 @@ Post-Processors:
 2. Dealing with Proxy Issues
 3. Recording Challenges
 
-**DAY-15**: Scripting Techniques and Real-time Challenges
+**DAY-15: Scripting Techniques and Real-time Challenges**
+
 **DAY-16: Advanced Scripting and Functions**
 1. Exploring JMeter Functions
     - Overview of Built-in Functions
@@ -187,7 +188,7 @@ Changing Response Time Value in Seconds in HTML Report
 2. Automating Performance Tests in CI/CD Pipelines
 
 
-**DAY-24:  Recap **
+**DAY-24:  Recap**
 1. Reviewing Key Concepts
 
 
